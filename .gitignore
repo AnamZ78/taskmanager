@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+*.sqlite3
+/static/
+/media/
+*.log
+*.pot
+*.py[cod]
+*.swp
+.DS_Store
+.idea/
+.vscode/
+migrations/
